@@ -10,4 +10,4 @@ GAME RULES:
 
 - To start a new game, press the NEW GAME button
 - A player cannot continue to play, after there's a winner. He/She should start a new game.
-- Optinoally a player can specify a final winning score in the text box provided. Otherwise the default winning score will be 100 points.
+- Optionally a player can specify a final winning score in the text box provided. Otherwise the default winning score will be 100 points.
